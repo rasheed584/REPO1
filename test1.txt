@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA20-5795
+
+ Directory of C:\Users\user\Desktop\My floder
+
+10/09/2017  09:01 PM    <DIR>          .
+10/09/2017  09:01 PM    <DIR>          ..
+10/09/2017  09:01 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  43,587,858,432 bytes free
